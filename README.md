@@ -7,7 +7,6 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 ## Output Videos
 Here is a screenshot from one of the output videos:
 
-![Screenshot](output_videos/screenshot.jpeg)
 
 ## Models Used
 * YOLO v8 for player detection
